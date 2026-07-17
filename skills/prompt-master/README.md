@@ -413,3 +413,5 @@ MIT: veja [LICENSE](LICENSE) para detalhes.
 [![Star History Chart](https://api.star-history.com/svg?repos=nidhinjs/prompt-master&type=Date)](https://star-history.com/#nidhinjs/claude-skills&Date)
 
 ---
+
+> **Nota da reorganização (2026-07):** esta skill foi movida de `skills/prompt-mestre-main/` (nome de pasta herdado do download em ZIP do repositório original) para `skills/prompt-master/`, para coincidir com o `name: prompt-master` já declarado no frontmatter do `SKILL.md` e seguir o padrão de nomenclatura descritiva adotado pelo restante do repositório (ver `docs/style-guides/naming.md`). Nenhum conteúdo foi alterado.

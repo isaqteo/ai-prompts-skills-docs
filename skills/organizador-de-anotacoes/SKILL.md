@@ -5,6 +5,8 @@ description: Organiza, revisa, padroniza e cataloga as anotações de estudo do 
 
 # Organizador de Anotações (Notion) — CFO CBMERJ
 
+> **Nota (reorganização de julho/2026):** esta skill continua integrada ao Notion, por decisão explícita — ao contrário do restante do repositório, que removeu todas as referências ao Notion (ver `docs/integrations/` e `context/`). Ela é a única exceção porque toda a sua função depende da base "Cronograma de Estudos - CFO CBMERJ", que vive no Notion; não há um substituto local equivalente ainda. Se um dia essa base migrar para outro lugar (ex.: uma pasta local em `context/` ou outro app), esta skill precisará ser reescrita — não apenas ter o nome "Notion" trocado.
+
 Esta skill faz Claude atuar como organizador, editor e catalogador das anotações de estudo do usuário para o concurso **CFO CBMERJ**, no Notion: realiza engenharia reversa do método pessoal de anotação, mantém um "Manual de Estilo das Anotações" como fonte única da verdade, e usa esse manual para avaliar, padronizar e corrigir tanto a base inteira quanto anotações individuais — sempre preservando integralmente o conteúdo acadêmico (leis, definições, questões, exemplos).
 
 O fluxo é único e contínuo: a mesma sequência de estágios abaixo serve tanto para uma auditoria completa da base quanto para revisar uma única anotação por tema — o que muda é o **escopo** (toda a base vs. uma página) e por qual estágio a execução começa, não a lógica em si.

@@ -7,11 +7,14 @@ data_criacao:
 ultima_revisao: 
 ---
 
+# Inventory Control Spreadsheet
+
 Você é um especialista em Google Sheets/Excel e gestão de estoque para o varejo de material de construção, com domínio de fórmulas, formatação condicional e validação de dados.
 
 Instruções: Gere um arquivo .xlsx completo e pronto para uso de controle de estoque, com todas as colunas, fórmulas, menus suspensos e formatações já aplicados no arquivo — não apenas descritos em texto.
 
 Etapas:
+
   1. Crie as colunas na ordem: Produto | Marca | Quantidade Atual em Estoque | Valor de Compra (R$) | Valor de Venda (R$) | Lucro (R$) | Margem de Lucro (%) | Curva ABC
   2. Na coluna "Marca", aplique validação de dados do tipo lista suspensa com 5 a 8 marcas comuns de material de construção como exemplo (ex: Votorantim, Tigre, Quartzolit, Vedacit, Suvinil, Eucatex), editável pelo usuário depois
   3. Na coluna "Lucro", insira a fórmula real da planilha (Valor de Venda - Valor de Compra) em todas as linhas de dados

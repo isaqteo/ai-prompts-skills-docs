@@ -3,8 +3,8 @@ titulo: inventory-control-spreadsheet
 ferramenta: Claude
 tags: []
 versao: 1.0
-data_criacao: 
-ultima_revisao: 
+data_criacao: 2026-07-20
+ultima_revisao: 2026-07-20
 ---
 
 # Inventory Control Spreadsheet
